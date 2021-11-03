@@ -7,7 +7,9 @@ namespace BranchingTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Cullin feels the effects of a personal embargo.");
+            Console.WriteLine("Whats going on");
+            Console.WriteLine("This is Phil's branch");
+            Console.WriteLine("No Cullins Allowed");
         }
     }
 }
