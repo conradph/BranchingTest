@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PConrad\\.nuget\\packages\\": {}
+    "C:\\Users\\CFlynn3\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PConrad\\source\\repos\\BranchingTest\\BranchingTest\\BranchingTest.csproj",
+      "projectUniqueName": "C:\\Users\\CFlynn3\\source\\repos\\BranchPracticeWithPhil\\BranchingTest\\BranchingTest.csproj",
       "projectName": "BranchingTest",
-      "projectPath": "C:\\Users\\PConrad\\source\\repos\\BranchingTest\\BranchingTest\\BranchingTest.csproj",
-      "packagesPath": "C:\\Users\\PConrad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PConrad\\source\\repos\\BranchingTest\\BranchingTest\\obj\\",
+      "projectPath": "C:\\Users\\CFlynn3\\source\\repos\\BranchPracticeWithPhil\\BranchingTest\\BranchingTest.csproj",
+      "packagesPath": "C:\\Users\\CFlynn3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CFlynn3\\source\\repos\\BranchPracticeWithPhil\\BranchingTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\PConrad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\CFlynn3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
